@@ -3,7 +3,7 @@
     <test name="Regression1">
         <classes>
 
-            <class name="TestActitime.UserTest1"/>
+            <class name="TestActitime.CustomerTest1"/>
 
         </classes>
     </test>
