@@ -25,6 +25,6 @@ public class CustomerTest1 extends BaseClass {
     }
     @Test
     public void verifyCustomer() throws InterruptedException {
-        customerPage.createCustomer("ketan");
+        customerPage.createCustomer("ketan1");
     }
 }
